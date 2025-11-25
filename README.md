@@ -96,5 +96,5 @@ Welcome to my collection of Power BI dashboards! This repository showcases vario
 ## Contact
 Feel free to reach out if you have any questions or if you'd like to collaborate
 
-[Linkedln](https://www.linkedin.com/in/motilal-das-42b4a9254/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BoDpWEEhoQXumGQdlfT19bQ%3D%3D)
+[Linkedln](https://www.linkedin.com/in/motilal-das-42b4a9254/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BaG2oJjubTjWiPUUuHZiqNA%3D%3D)
 
