@@ -89,6 +89,12 @@ Welcome to my collection of Power BI dashboards! This repository showcases vario
 **Files**:[HR Workforce Analysis by Motilal Das](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/HR%20Workforce%20Analysis/analysis/HR_Insights_%26_Trends.pbix)
 ![alt text](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/HR%20Workforce%20Analysis/assets/dashboard.png)
 
+## Supply Chain Analysis
+**Files**:[Supply Chain Analysis](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/tree/main/supply-chain-analysis-power-bi)
+![alt text](https://github.com/MkSingh431/Power-BI-Dashboards-Collection/blob/main/supply-chain-analysis-power-bi/Dashboard.png)
+
+
+
 ##
 
 
